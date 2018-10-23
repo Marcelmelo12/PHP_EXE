@@ -1,0 +1,9 @@
+*{margin:1px; padding:1px;}
+body{background:#666;}
+site{height:800px; width: 800px;}
+#topo{height:300px; width: 800px;}
+#menu{height:40px; width: 800px; background:#FF3300;}
+#menu a{color:#B0E2FF;text-decoration:none;font-size:20px;font-weight:bold;}
+#conteudo{height:400px; width: 800px; background:#DDD;}
+#conteudo img{margin: 15px 15px;}
+#rodape{height:50px; width: 800px; background:#FF3300;}
